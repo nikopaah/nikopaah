@@ -7,7 +7,7 @@
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
-  <img align="right" height="150" style="border-radius:150px;" src="https://media.discordapp.net/attachments/906579732005527593/965741781331374180/perfil.png?width=676&height=676">
+  <img align="right" height="150" style="border-radius:150px;" src="https://media.discordapp.net/attachments/906579732005527593/965747331116978266/perfil.png?width=676&height=676">
 </div>
   
   ##
