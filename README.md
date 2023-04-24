@@ -1,4 +1,4 @@
-## Hey! Eu sou niko, estudante de jogos digitais na FATEC Antônio Russo, programadora fullstack E também ilustradora/game artist nas horas vagas :D
+## Hey! Eu sou niko, estudante de jogos digitais na Anhembi Morumbi, programadora fullstack E também ilustradora/game artist nas horas vagas :D
 <div align="center">
   <a href="https://github.com/nikopaah">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nikopaah&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
